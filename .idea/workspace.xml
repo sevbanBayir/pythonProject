@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69e3168-0e5b-4688-b3ab-46b74ae7d889" name="Changes" comment="second week" />
+    <list default="true" id="c69e3168-0e5b-4688-b3ab-46b74ae7d889" name="Changes" comment="second week">
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_01.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.00.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.01-07.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.08.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.09.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.10.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.11.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.12.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.13.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.14.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_03.01.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_03.02.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_04.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_07.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_08.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_09.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/EdwardTheSecond.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/RomeoAndJuliet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/RomeoAndJulietHeart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/exercise_blob.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/mask_circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/mask_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/mask_oval.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/mask_star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7.week/ssl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourthweek/pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +41,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="Jupyter Notebook" />
       </list>
     </option>
@@ -37,31 +66,65 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.ssl.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/sevbanbuyer/PycharmProjects/pythonProject/secondweek",
+    "last_opened_file_path": "/Users/sevbanbuyer/PycharmProjects/pythonProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/secondweek" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fifthweek" />
       <recent name="$PROJECT_DIR$/secondweek" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ssl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fifthweek" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fifthweek/ssl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ssl" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -78,7 +141,8 @@
       <workItem from="1728027017617" duration="1735000" />
       <workItem from="1728630136163" duration="3164000" />
       <workItem from="1728634362866" duration="1981000" />
-      <workItem from="1728831975071" duration="175000" />
+      <workItem from="1728831975071" duration="317000" />
+      <workItem from="1730444111309" duration="5416000" />
     </task>
     <task id="LOCAL-00001" summary="first week">
       <option name="closed" value="true" />
@@ -96,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728832016775</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="second week">
+      <option name="closed" value="true" />
+      <created>1728832154547</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728832154547</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,5 +179,8 @@
     <MESSAGE value="first week" />
     <MESSAGE value="second week" />
     <option name="LAST_COMMIT_MESSAGE" value="second week" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$ssl.coverage" NAME="ssl Coverage Results" MODIFIED="1730445152446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fifthweek" />
   </component>
 </project>
