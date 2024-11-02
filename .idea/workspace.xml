@@ -4,34 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69e3168-0e5b-4688-b3ab-46b74ae7d889" name="Changes" comment="second week">
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_01.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.00.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.01-07.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.08.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.09.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.10.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.11.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.12.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.13.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_02.14.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_03.01.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_03.02.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_04.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_07.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_08.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/12_09.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/EdwardTheSecond.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/RomeoAndJuliet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/RomeoAndJulietHeart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/exercise_blob.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/mask_circle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/mask_heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/mask_oval.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/mask_star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-6-7.week/ssl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fourthweek/pandas.ipynb" afterDir="false" />
+    <list default="true" id="c69e3168-0e5b-4688-b3ab-46b74ae7d889" name="Changes" comment="added some files from 4th week and all files for 5-6-7. weeks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-6-7.week/12_02.14.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5-6-7.week/12_02.14.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +117,7 @@
       <workItem from="1728630136163" duration="3164000" />
       <workItem from="1728634362866" duration="1981000" />
       <workItem from="1728831975071" duration="317000" />
-      <workItem from="1730444111309" duration="5416000" />
+      <workItem from="1730444111309" duration="6150000" />
     </task>
     <task id="LOCAL-00001" summary="first week">
       <option name="closed" value="true" />
@@ -168,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728832154547</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added some files from 4th week and all files for 5-6-7. weeks">
+      <option name="closed" value="true" />
+      <created>1730450423344</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730450423344</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,9 +161,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first week" />
     <MESSAGE value="second week" />
-    <option name="LAST_COMMIT_MESSAGE" value="second week" />
+    <MESSAGE value="added some files from 4th week and all files for 5-6-7. weeks" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some files from 4th week and all files for 5-6-7. weeks" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject$ssl.coverage" NAME="ssl Coverage Results" MODIFIED="1730445152446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fifthweek" />
+    <SUITE FILE_PATH="coverage/pythonProject$ssl.coverage" NAME="ssl Coverage Results" MODIFIED="1730450352014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5-6-7.week" />
   </component>
 </project>
