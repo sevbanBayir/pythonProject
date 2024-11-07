@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69e3168-0e5b-4688-b3ab-46b74ae7d889" name="Changes" comment="added some files from 4th week and all files for 5-6-7. weeks">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c69e3168-0e5b-4688-b3ab-46b74ae7d889" name="Changes" comment="updated week 2-3 files">
       <change beforePath="$PROJECT_DIR$/5-6-7.week/12_02.14.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5-6-7.week/12_02.14.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstweek/intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/firstweek/intro.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,29 +38,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.ssl.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/sevbanbuyer/PycharmProjects/pythonProject",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.ssl.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sevbanbuyer/PycharmProjects/pythonProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/secondweek" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/firstweek" />
+      <recent name="$PROJECT_DIR$/fourthweek" />
       <recent name="$PROJECT_DIR$/fifthweek" />
       <recent name="$PROJECT_DIR$/secondweek" />
     </key>
@@ -118,6 +120,7 @@
       <workItem from="1728634362866" duration="1981000" />
       <workItem from="1728831975071" duration="317000" />
       <workItem from="1730444111309" duration="6150000" />
+      <workItem from="1730572458263" duration="3861000" />
     </task>
     <task id="LOCAL-00001" summary="first week">
       <option name="closed" value="true" />
@@ -151,7 +154,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730450423344</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated week 4 files">
+      <option name="closed" value="true" />
+      <created>1730572755213</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730572755213</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated week 2-3 files">
+      <option name="closed" value="true" />
+      <created>1730572887313</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730572887313</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +181,9 @@
     <MESSAGE value="first week" />
     <MESSAGE value="second week" />
     <MESSAGE value="added some files from 4th week and all files for 5-6-7. weeks" />
-    <option name="LAST_COMMIT_MESSAGE" value="added some files from 4th week and all files for 5-6-7. weeks" />
+    <MESSAGE value="updated week 4 files" />
+    <MESSAGE value="updated week 2-3 files" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated week 2-3 files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$ssl.coverage" NAME="ssl Coverage Results" MODIFIED="1730450352014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5-6-7.week" />
