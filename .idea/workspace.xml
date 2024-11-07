@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69e3168-0e5b-4688-b3ab-46b74ae7d889" name="Changes" comment="updated week 2-3 files">
-      <change beforePath="$PROJECT_DIR$/5-6-7.week/12_02.14.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5-6-7.week/12_02.14.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstweek/intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/firstweek/intro.ipynb" afterDir="false" />
+    <list default="true" id="c69e3168-0e5b-4688-b3ab-46b74ae7d889" name="Changes" comment="code reformat">
+      <change afterPath="$PROJECT_DIR$/homework/advertising.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/homework1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourthweek/timeseries.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourthweek/timeseries.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +63,7 @@
       <recent name="$PROJECT_DIR$/secondweek" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework" />
       <recent name="$PROJECT_DIR$/firstweek" />
       <recent name="$PROJECT_DIR$/fourthweek" />
       <recent name="$PROJECT_DIR$/fifthweek" />
@@ -121,6 +124,7 @@
       <workItem from="1728831975071" duration="317000" />
       <workItem from="1730444111309" duration="6150000" />
       <workItem from="1730572458263" duration="3861000" />
+      <workItem from="1731008792843" duration="6106000" />
     </task>
     <task id="LOCAL-00001" summary="first week">
       <option name="closed" value="true" />
@@ -170,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730572887313</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="code reformat">
+      <option name="closed" value="true" />
+      <created>1731009072248</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731009072248</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +195,8 @@
     <MESSAGE value="added some files from 4th week and all files for 5-6-7. weeks" />
     <MESSAGE value="updated week 4 files" />
     <MESSAGE value="updated week 2-3 files" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated week 2-3 files" />
+    <MESSAGE value="code reformat" />
+    <option name="LAST_COMMIT_MESSAGE" value="code reformat" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$ssl.coverage" NAME="ssl Coverage Results" MODIFIED="1730450352014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5-6-7.week" />
