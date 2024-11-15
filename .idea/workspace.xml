@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69e3168-0e5b-4688-b3ab-46b74ae7d889" name="Changes" comment="code reformat">
-      <change afterPath="$PROJECT_DIR$/homework/advertising.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/homework1.ipynb" afterDir="false" />
+    <list default="true" id="c69e3168-0e5b-4688-b3ab-46b74ae7d889" name="Changes" comment="homework done">
+      <change afterPath="$PROJECT_DIR$/homework/exercise/exercise.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/exercise/south of the wolves.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/quiz/SevbanBayır.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/quiz/question 1 text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fourthweek/timeseries.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourthweek/timeseries.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-6-7.week/12_03.01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5-6-7.week/12_03.01.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-6-7.week/12_03.02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5-6-7.week/12_03.02.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-6-7.week/RomeoAndJulietHeart.png" beforeDir="false" afterPath="$PROJECT_DIR$/5-6-7.week/RomeoAndJulietHeart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/advertising.csv" beforeDir="false" afterPath="$PROJECT_DIR$/homework/homework1/advertising.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/homework1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homework/homework1/homework1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +32,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sevbanBayir&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sevbanBayir/pythonProject.git&quot;,
+    &quot;accountId&quot;: &quot;f4d68b49-ec6c-4066-b14b-ed91a3a1cb71&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -63,11 +81,11 @@
       <recent name="$PROJECT_DIR$/secondweek" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework/quiz" />
+      <recent name="$PROJECT_DIR$/homework/exercise" />
+      <recent name="$PROJECT_DIR$/homework/homework1" />
       <recent name="$PROJECT_DIR$/homework" />
       <recent name="$PROJECT_DIR$/firstweek" />
-      <recent name="$PROJECT_DIR$/fourthweek" />
-      <recent name="$PROJECT_DIR$/fifthweek" />
-      <recent name="$PROJECT_DIR$/secondweek" />
     </key>
   </component>
   <component name="RunManager">
@@ -124,7 +142,8 @@
       <workItem from="1728831975071" duration="317000" />
       <workItem from="1730444111309" duration="6150000" />
       <workItem from="1730572458263" duration="3861000" />
-      <workItem from="1731008792843" duration="6106000" />
+      <workItem from="1731008792843" duration="6809000" />
+      <workItem from="1731046971894" duration="7154000" />
     </task>
     <task id="LOCAL-00001" summary="first week">
       <option name="closed" value="true" />
@@ -182,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731009072248</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="homework done">
+      <option name="closed" value="true" />
+      <created>1731017591010</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731017591010</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +223,8 @@
     <MESSAGE value="updated week 4 files" />
     <MESSAGE value="updated week 2-3 files" />
     <MESSAGE value="code reformat" />
-    <option name="LAST_COMMIT_MESSAGE" value="code reformat" />
+    <MESSAGE value="homework done" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework done" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$ssl.coverage" NAME="ssl Coverage Results" MODIFIED="1730450352014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5-6-7.week" />
