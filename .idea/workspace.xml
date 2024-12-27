@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69e3168-0e5b-4688-b3ab-46b74ae7d889" name="Changes" comment="homework2.ipynb added">
+    <list default="true" id="c69e3168-0e5b-4688-b3ab-46b74ae7d889" name="Changes" comment="create certificate.ipynb for disable certifcate verification">
+      <change afterPath="$PROJECT_DIR$/homework/quiz2/quiz2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/quiz2/quiz22.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8thweek/machine learning/15_05.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/8thweek/machine learning/15_05.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8thweek/machine learning/15_02-03.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/8thweek/machine learning/15_02-03.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +145,7 @@
       <workItem from="1734073828348" duration="3750000" />
       <workItem from="1734676395545" duration="3433000" />
       <workItem from="1735243155745" duration="978000" />
-      <workItem from="1735280010200" duration="2258000" />
+      <workItem from="1735280010200" duration="4580000" />
     </task>
     <task id="LOCAL-00001" summary="first week">
       <option name="closed" value="true" />
@@ -273,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735281027304</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="create certificate.ipynb for disable certifcate verification">
+      <option name="closed" value="true" />
+      <created>1735283636866</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1735283636866</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,7 +305,8 @@
     <MESSAGE value="add gitignore" />
     <MESSAGE value="added last topics" />
     <MESSAGE value="homework2.ipynb added" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework2.ipynb added" />
+    <MESSAGE value="create certificate.ipynb for disable certifcate verification" />
+    <option name="LAST_COMMIT_MESSAGE" value="create certificate.ipynb for disable certifcate verification" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$ssl.coverage" NAME="ssl Coverage Results" MODIFIED="1730450352014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5-6-7.week" />
