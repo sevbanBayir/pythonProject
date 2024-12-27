@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69e3168-0e5b-4688-b3ab-46b74ae7d889" name="Changes" comment="added last topics">
-      <change afterPath="$PROJECT_DIR$/homework/homework2/homework2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8thweek/machine learning/15_02-03.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/8thweek/machine learning/15_02-03.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="c69e3168-0e5b-4688-b3ab-46b74ae7d889" name="Changes" comment="homework2.ipynb added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +140,7 @@
       <workItem from="1734073828348" duration="3750000" />
       <workItem from="1734676395545" duration="3433000" />
       <workItem from="1735243155745" duration="978000" />
-      <workItem from="1735280010200" duration="386000" />
+      <workItem from="1735280010200" duration="740000" />
     </task>
     <task id="LOCAL-00001" summary="first week">
       <option name="closed" value="true" />
@@ -258,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734680105211</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="homework2.ipynb added">
+      <option name="closed" value="true" />
+      <created>1735280728792</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1735280728792</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,7 +283,8 @@
     <MESSAGE value="midterm added" />
     <MESSAGE value="add gitignore" />
     <MESSAGE value="added last topics" />
-    <option name="LAST_COMMIT_MESSAGE" value="added last topics" />
+    <MESSAGE value="homework2.ipynb added" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework2.ipynb added" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$ssl.coverage" NAME="ssl Coverage Results" MODIFIED="1730450352014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5-6-7.week" />
