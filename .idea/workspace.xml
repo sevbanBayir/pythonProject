@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69e3168-0e5b-4688-b3ab-46b74ae7d889" name="Changes" comment="quiz 2 added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c69e3168-0e5b-4688-b3ab-46b74ae7d889" name="Changes" comment="make adjustments" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,6 +141,7 @@
       <workItem from="1734676395545" duration="3433000" />
       <workItem from="1735243155745" duration="978000" />
       <workItem from="1735280010200" duration="5196000" />
+      <workItem from="1735808499475" duration="215000" />
     </task>
     <task id="LOCAL-00001" summary="first week">
       <option name="closed" value="true" />
@@ -288,11 +287,30 @@
       <option name="project" value="LOCAL" />
       <updated>1735287339424</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="make adjustments">
+      <option name="closed" value="true" />
+      <created>1735808696400</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1735808696400</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -312,7 +330,8 @@
     <MESSAGE value="homework2.ipynb added" />
     <MESSAGE value="create certificate.ipynb for disable certifcate verification" />
     <MESSAGE value="quiz 2 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="quiz 2 added" />
+    <MESSAGE value="make adjustments" />
+    <option name="LAST_COMMIT_MESSAGE" value="make adjustments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
